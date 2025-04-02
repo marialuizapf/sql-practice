@@ -1,15 +1,14 @@
-# 🗃️ SQL Practice – Meu Laboratório de Consultas e Desafios
+# 🗃️ SQL Practice – Portfólio de Consultas e Projetos com Banco de Dados
 
-Este repositório foi criado para organizar meus estudos, práticas e desafios em SQL. Ele serve como meu laboratório pessoal para testar comandos, escrever consultas, criar bancos de dados fictícios e evoluir na área de **Ciência de Dados**, com foco futuro em **Inteligência Artificial**.
-
+Este repositório reúne minha evolução no aprendizado de SQL, voltado para aplicações em **Ciência de Dados** e **Análise de Dados**. Ele serve como um portfólio prático, com scripts organizados, bancos de dados fictícios e desafios resolvidos.
 ---
 
-## 💡 Objetivo
+## 🎯 Objetivo
 
-- Consolidar minha base em SQL de forma prática
-- Criar consultas explicadas para revisão e estudo
-- Desenvolver mini-projetos com bancos de dados fictícios
-- Resolver desafios próprios e de plataformas como HackerRank e LeetCode
+- Demonstrar domínio progressivo em **SQL e modelagem relacional**
+- Aplicar comandos SQL em cenários reais e simulados
+- Criar e consultar bancos de dados organizados para análise
+- Servir como repositório de referência pessoal e profissional
 
 ---
 
@@ -20,4 +19,3 @@ Este repositório foi criado para organizar meus estudos, práticas e desafios e
   - `ecommerce/`: banco simulado de e-commerce (estrutura e consultas).
   - `escola/`: banco simulado de escola (alunos, cursos, notas).
 - `README.md`: este arquivo com explicações do projeto.
-
