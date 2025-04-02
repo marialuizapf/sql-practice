@@ -1,5 +1,5 @@
 # 🗃️ SQL Practice – Portfólio de Consultas e Projetos com Banco de Dados
-
+---
 Este repositório reúne minha evolução no aprendizado de SQL, voltado para aplicações em **Ciência de Dados** e **Análise de Dados**. Ele serve como um portfólio prático, com scripts organizados, bancos de dados fictícios e desafios resolvidos.
 ---
 
