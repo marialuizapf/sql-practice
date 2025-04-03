@@ -15,9 +15,8 @@ Este repositório reúne minha evolução no aprendizado de SQL, voltado para ap
 
 ## 📂 Estrutura do Repositório
 
-- `consultas.sql`: script principal com consultas organizadas por tema (joins, filtros, subqueries, agregações etc).
-- `desafios/`: pasta com desafios práticos usando bancos fictícios.
+- `sql-projects/`: pasta com desafios práticos usando bancos fictícios.
   - `ecommerce/`: banco simulado de e-commerce (estrutura e consultas).
   - `escola/`: banco simulado de escola (alunos, cursos, notas).
-  - `world/`: banco simulado de países (pais, continente, população, gdp, area).
+  - `world_contries/`: banco simulado de países (pais, continente, população, gdp, area).
 - `README.md`: este arquivo com explicações do projeto.
