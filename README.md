@@ -19,4 +19,5 @@ Este repositório reúne minha evolução no aprendizado de SQL, voltado para ap
 - `desafios/`: pasta com desafios práticos usando bancos fictícios.
   - `ecommerce/`: banco simulado de e-commerce (estrutura e consultas).
   - `escola/`: banco simulado de escola (alunos, cursos, notas).
+  - `world/`: banco simulado de países (pais, continente, população, gdp, area).
 - `README.md`: este arquivo com explicações do projeto.
